@@ -1,0 +1,486 @@
+fileFormatVersion: 2
+guid: cc62e5a592dfe5a46a38b30e2159fe66
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Different expressions of cartoon face vector illustrations set [Converted]_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5508.75
+        width: 2318.25
+        height: 1836.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d965c46ac3e10d4cb2da2c0cfb79cec
+      internalID: -316568069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Different expressions of cartoon face vector illustrations set [Converted]_1
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 5508.75
+        width: 2318.25
+        height: 1836.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba1ae4060c39ef4981a82cb00bb4042
+      internalID: 2053345234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Different expressions of cartoon face vector illustrations set [Converted]_2
+      rect:
+        serializedVersion: 2
+        x: 4636
+        y: 5508.75
+        width: 2318.25
+        height: 1836.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bad82265cd0d8448ae0031f4dac3e8
+      internalID: 34032398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Different expressions of cartoon face vector illustrations set [Converted]_3
+      rect:
+        serializedVersion: 2
+        x: 6954
+        y: 5508.75
+        width: 2318.25
+        height: 1836.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb88828ffadb4740b0824c9cadffc73
+      internalID: -2143154550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Different expressions of cartoon face vector illustrations set [Converted]_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3672.75
+        width: 2318.25
+        height: 1836.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9702572b33d9fe43b11e9d2717c280a
+      internalID: 862634425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Different expressions of cartoon face vector illustrations set [Converted]_5
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 3672.75
+        width: 2318.25
+        height: 1836.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126720fbea702f746aa9044af9968421
+      internalID: -1393207662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Different expressions of cartoon face vector illustrations set [Converted]_6
+      rect:
+        serializedVersion: 2
+        x: 4636
+        y: 3672.75
+        width: 2318.25
+        height: 1836.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3a04ed87c51284e9054abda4a2fd56
+      internalID: 175536076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Different expressions of cartoon face vector illustrations set [Converted]_7
+      rect:
+        serializedVersion: 2
+        x: 6954
+        y: 3672.75
+        width: 2318.25
+        height: 1836.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3154f0f7525db24bbf2d39891de0fc6
+      internalID: 2021539834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Different expressions of cartoon face vector illustrations set [Converted]_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1836.75
+        width: 2318.25
+        height: 1836.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70680d8a318b9649a17154718b4d5c9
+      internalID: 2056506349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Different expressions of cartoon face vector illustrations set [Converted]_9
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 1836.75
+        width: 2318.25
+        height: 1836.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d187b6fc0bfc1f42bf7eb963b358977
+      internalID: 1959960693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Different expressions of cartoon face vector illustrations set [Converted]_10
+      rect:
+        serializedVersion: 2
+        x: 4636
+        y: 1836.75
+        width: 2318.25
+        height: 1836.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6225db538b01e944cb1c8af88573988d
+      internalID: 523161890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Different expressions of cartoon face vector illustrations set [Converted]_11
+      rect:
+        serializedVersion: 2
+        x: 6954
+        y: 1836.75
+        width: 2318.25
+        height: 1836.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79f9183ad4f95d4c9afb8e22277be37
+      internalID: 1437214813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Different expressions of cartoon face vector illustrations set [Converted]_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.75
+        width: 2318.25
+        height: 1836.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfd1fb88d8688446bdb5d899b7759d2
+      internalID: -1543743143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Different expressions of cartoon face vector illustrations set [Converted]_13
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 0.75
+        width: 2318.25
+        height: 1836.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd70e376bc027d84a9b21a49d790d8e4
+      internalID: 1345439291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Different expressions of cartoon face vector illustrations set [Converted]_14
+      rect:
+        serializedVersion: 2
+        x: 4636
+        y: 0.75
+        width: 2318.25
+        height: 1836.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f068f619ce85744c98065943507130f
+      internalID: -1816235597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Different expressions of cartoon face vector illustrations set [Converted]_15
+      rect:
+        serializedVersion: 2
+        x: 6954
+        y: 0.75
+        width: 2318.25
+        height: 1836.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b09f91659ad9948ad8c3f86f4a9c79
+      internalID: 1282840012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Different expressions of cartoon face vector illustrations set [Converted]_10: 523161890
+      Different expressions of cartoon face vector illustrations set [Converted]_13: 1345439291
+      Different expressions of cartoon face vector illustrations set [Converted]_6: 175536076
+      Different expressions of cartoon face vector illustrations set [Converted]_11: 1437214813
+      Different expressions of cartoon face vector illustrations set [Converted]_4: 862634425
+      Different expressions of cartoon face vector illustrations set [Converted]_5: -1393207662
+      Different expressions of cartoon face vector illustrations set [Converted]_7: 2021539834
+      Different expressions of cartoon face vector illustrations set [Converted]_2: 34032398
+      Different expressions of cartoon face vector illustrations set [Converted]_12: -1543743143
+      Different expressions of cartoon face vector illustrations set [Converted]_9: 1959960693
+      Different expressions of cartoon face vector illustrations set [Converted]_8: 2056506349
+      Different expressions of cartoon face vector illustrations set [Converted]_1: 2053345234
+      Different expressions of cartoon face vector illustrations set [Converted]_3: -2143154550
+      Different expressions of cartoon face vector illustrations set [Converted]_14: -1816235597
+      Different expressions of cartoon face vector illustrations set [Converted]_15: 1282840012
+      Different expressions of cartoon face vector illustrations set [Converted]_0: -316568069
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
